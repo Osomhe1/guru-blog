@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "blog_post_4alq_user",
+    "password": "yOf7Z0aae6WM1wmtF3ZWZoGKUnjIAEbP",
+    "database": "blog_post_4alq",
+    "host": "dpg-cpn15iuehbks7380ebpg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "blog_post_4alq_user",
+    "password": "yOf7Z0aae6WM1wmtF3ZWZoGKUnjIAEbP",
+    "database": "blog_post_4alq",
+    "host": "dpg-cpn15iuehbks7380ebpg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "blog_post_4alq_user",
+    "password": "yOf7Z0aae6WM1wmtF3ZWZoGKUnjIAEbP",
+    "database": "blog_post_4alq",
+    "host": "dpg-cpn15iuehbks7380ebpg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
