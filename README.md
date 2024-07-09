@@ -23,3 +23,18 @@ cd backend
 npm install
 npm start
 ```
+
+guru-test/
+├── frontend/
+│ ├── src/
+│ ├── public/
+│ ├── package.json
+│ ├── .gitignore
+│ └── README.md
+├── backend/
+│ ├── src/
+│ ├── package.json
+│ ├── .gitignore
+│ └── README.md
+├── .gitignore
+├── README.md
